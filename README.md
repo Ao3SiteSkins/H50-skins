@@ -4,4 +4,4 @@ To use the skin, simply create "Site Skin" on https://archiveofourown.org and, n
 ### List of skins
 | Screenshots | Name and Link to Ao3 |
 | --- | --- |
-| ![Keep Calm and Call Five-0](https://github.com/Ao3SiteSkins/Original-skins/blob/main/Screenshots/Butterfliesgreen.png "Keep Calm and Call Five-0") | <a href="https://archiveofourown.org/works/50257519">Keep Calm and Call Five-0</a> |
+| ![Keep Calm and Call Five-0](https://github.com/Ao3SiteSkins/H50-skins/blob/main/Screenshots/KeepCalmandCallFive-0.png "Keep Calm and Call Five-0") | <a href="https://archiveofourown.org/works/50257519">Keep Calm and Call Five-0</a> |
